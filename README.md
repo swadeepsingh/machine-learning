@@ -11,15 +11,21 @@ This repository provides the implementation of some of the basic algorithms used
 1.  Supervised Learning
 
   a.  Decision Trees
+  
   b.  Naive Bayes Classification
+  
   c.  Ordinary Least Squares Regression
+  
   d.  Logistic Regression
+  
   e.  Support Vector Machines
   
 2.  Unsupervised Learning
 
   a.  Clustering Algorithms
+  
   b.  Principal Component Analysis
+  
   c.  Singular Value Decomposition
   
   
