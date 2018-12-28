@@ -9,6 +9,7 @@ This repository provides the implementation of some of the basic algorithms used
 
 # Topics
 1.  Supervised Learning
+
   a.  Decision Trees
   b.  Naive Bayes Classification
   c.  Ordinary Least Squares Regression
@@ -16,6 +17,7 @@ This repository provides the implementation of some of the basic algorithms used
   e.  Support Vector Machines
   
 2.  Unsupervised Learning
+
   a.  Clustering Algorithms
   b.  Principal Component Analysis
   c.  Singular Value Decomposition
@@ -25,13 +27,22 @@ This repository provides the implementation of some of the basic algorithms used
 Here is the list of commonly used machine learning algorithms. These algorithms can be applied to almost any data problem:
 
   Linear Regression
+  
   Logistic Regression
+  
   Decision Tree
+  
   SVM
+  
   Naive Bayes
+  
   kNN
+  
   K-Means
+  
   Random Forest
+    
   Dimensionality Reduction Algorithms
+  
   Gradient Boosting algorithms
  
