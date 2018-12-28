@@ -1,3 +1,5 @@
+This repository provides the implementation of some of the basic algorithms used in machine learning domain. 
+
 # Foundations of Machine Learning 
 1.  Focus on the analysis and theory of algorithms. 
 2.  Multi-class classification; ranking; regression; algorithmic stability; dimensionality reduction
