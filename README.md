@@ -1,6 +1,7 @@
 # machine-learning
 Basic concepts of machine learning. 
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/1/18/Bayes%27_Theorem_MMB_01.jpg)
 
 # Foundations of Machine Learning 
 1.  Focus on the analysis and theory of algorithms. 
@@ -34,7 +35,4 @@ Here is the list of commonly used machine learning algorithms. These algorithms 
   Random Forest
   Dimensionality Reduction Algorithms
   Gradient Boosting algorithms
-  GBM
-  XGBoost
-  LightGBM
-  CatBoost
+ 
