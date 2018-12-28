@@ -1,12 +1,9 @@
-# machine-learning
-Basic concepts of machine learning. 
-
-![alt text](https://upload.wikimedia.org/wikipedia/commons/1/18/Bayes%27_Theorem_MMB_01.jpg)
-
 # Foundations of Machine Learning 
 1.  Focus on the analysis and theory of algorithms. 
 2.  Multi-class classification; ranking; regression; algorithmic stability; dimensionality reduction
 3.  Support Vector Machines (SVMs) 
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/1/18/Bayes%27_Theorem_MMB_01.jpg)
 
 # Topics
 1.  Supervised Learning
